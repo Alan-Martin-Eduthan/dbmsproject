@@ -1,2 +1,2 @@
 ﻿#dbmsproject
-https://github.com/Adhith14/dbmsproject.git
+https://adhith14.github.io/dbmsproject/
